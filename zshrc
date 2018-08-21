@@ -119,6 +119,7 @@ alias moon="curl wttr.in/Moon"
 alias pa="php artisan"
 
 alias vfzf="vim \$(fzf --height 40% --reverse)"
+alias nfzf="nvim \$(fzf --height 40% --reverse)"
 
 alias initialkeyrepeat="defaults write -g InitialKeyRepeat -int" # 10" # normal minimum is 15 (225 ms)
 alias keyrepeat="defaults write -g KeyRepeat -int" # 1 # normal minimum is 2 (30 ms)
